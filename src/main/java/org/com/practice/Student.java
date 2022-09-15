@@ -1,3 +1,5 @@
+package org.com.practice;
+
 public class Student {
         String name;
     public String getName() {
